@@ -48,7 +48,7 @@ You just have to choose the options available and enjoy\033[1;m
 					repo = raw_input("\033[1;32mWhat do you want to do ?> \033[1;m")
 					if repo == "1":
 						os.system("clear")
-						os.system("sudo apt install gnupg -y  ")
+y						os.system("sudo apt install gnupg -y ")
 						os.system("sudo apt-key adv --keyserver pool.sks-keyservers.net --recv-keys ED444FF07D8D0BF6")
 						os.system("sudo apt update  ")
 						os.system(" bash .install.sh  ")

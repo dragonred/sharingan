@@ -12,31 +12,29 @@
 - ⚡ Fun fact: i love watching naruto movies
 
 ### I really thank her so much 🎧
-
-[<img src="https://www.upsieutoc.com/images/2021/01/07/136958423_4137419939621277_5721611825316049741_n.jpg" alt="136958423_4137419939621277_5721611825316049741_n.jpg" border="0"  width="350" />]
+<img src="https://www.upsieutoc.com/images/2021/01/07/136958423_4137419939621277_5721611825316049741_n.jpg" alt="136958423_4137419939621277_5721611825316049741_n.jpg" border="0"  width="300" />
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://img.shields.io/github/pipenv/locked/python-version/longhoang/sharingan.py" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
 
 ---
-[<img src="https://www.upsieutoc.com/images/2021/01/07/Screenshot-104.png" alt="Screenshot-104.png" border="0" />]
+<img src="https://www.upsieutoc.com/images/2021/01/07/Screenshot-104.png" alt="Screenshot-104.png" border="0" />
 ### 📺 This sharingan tool written in python has port scanning, security vulnerability scan, firewall scan, sniffing of hidden files in web,look up web information,3 and especially it comes a search engine for admin login page
 ###thanks for these tools for supporting me to do tools
 + nmap
@@ -51,7 +49,7 @@
 - Press the keys to install and scan for vulnerabilities
 - The only thing you need to do is enter the website and sip a cup of coffee while you wait
 
-###❌ Warning this tool is only for good purposes, if used for bad purposes I do not take responsibility for you
+❌ Warning this tool is only for good purposes, if used for bad purposes I do not take responsibility for you
 
 
 [course]: http://vsCodeHero.com

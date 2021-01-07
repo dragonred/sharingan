@@ -1,0 +1,39 @@
+Time: Thu Jan  7 14:45:17 2021
+
+Time: Thu Jan  7 14:45:17 2021
+
+400     1KB  http://dungebay.vn:80/!.htaccess
+Time: Thu Jan  7 14:45:18 2021
+
+Time: Thu Jan  7 14:45:18 2021
+
+400     1KB  http://dungebay.vn:80/!.gitignore
+Time: Thu Jan  7 14:45:19 2021
+
+Time: Thu Jan  7 14:45:19 2021
+
+400     1KB  http://dungebay.vn:80/!.htpasswd
+Time: Thu Jan  7 14:45:19 2021
+
+Time: Thu Jan  7 14:45:19 2021
+
+400     1KB  http://dungebay.vn:80/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+Time: Thu Jan  7 14:45:19 2021
+
+Time: Thu Jan  7 14:45:19 2021
+
+400     1KB  http://dungebay.vn:80/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+Time: Thu Jan  7 14:45:19 2021
+
+Time: Thu Jan  7 14:45:19 2021
+
+Time: Thu Jan  7 14:45:19 2021
+
+400     1KB  http://dungebay.vn:80/+CSCOE+/logon.html#form_title_text
+400     1KB  http://dungebay.vn:80/..;/
+Time: Thu Jan  7 14:45:19 2021
+
+Time: Thu Jan  7 14:45:20 2021
+
+Time: Thu Jan  7 14:45:20 2021
+
